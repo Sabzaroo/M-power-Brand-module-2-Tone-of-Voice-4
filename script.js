@@ -1,34 +1,34 @@
 const config = {
-    title: "Inform your content with qualitative data",
-    question: "There are several tools you can use to understand which content your audience is actively engaging with.",
-    image_on: true,
+    title: "How to use your KIT:",
+    question: "3. Make it trustworthy",
+    image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "Select the tool name below to see how:",
+    selection_title: "Click on each bullet below to learn more about each point.",
     selection_options: [
-        "Buzzsumo",
-        "Mentionlytics",
-        "Audiense",
-        "Google Trends"
+        "Be upfront and honest",
+        "Use natural phrases to add your personality",
+        "Use contractions to soften the language",
+        "Use asides to add warmth"
     ],
     answer_options: [
-        "",
-        "Useful for monitoring your own content for measurement and benchmarking.",
-        "A great Twitter tool to monitor trends, build and segment lists of key users, monitor content performance and more.",
-        "Can show you how many people are talking about a topic. You can cross reference it with Reddit, Quora or a social media platform to validate the data and make a call on how impactful that content is."
+        "Write about flaws, give two sides of an argument and explain problems. Don't overstate benefits – your readers will see through it.",
+        "Put a little of yourself into your writing. Use your favourite word or use a metaphor to explain a term. We want to be consistent but a little of your own personality helps bring your writing to life.",
+        "Using contractions like 'we'll', 'can't', and 'won't' sound softer than 'we will', 'cannot', and 'will not'.",
+        "Lighten the tone of your writing with extra thoughts by using brackets, dashes or footnotes. They're a good way to add your own personality."
     ],
     answer_background_colour: "rgba(37, 81, 123, 0.5)",
     answer_font_colour: "white",
     big_answer_image: [
-        "https://a.storyblok.com/f/112136/1001x354/be5144572e/aware.png",
-        "https://a.storyblok.com/f/112136/446x446/3ea9d4491c/2.png",
-        "https://a.storyblok.com/f/112136/446x446/1cadc0e6c3/3.png",
-        "https://a.storyblok.com/f/112136/446x446/0c7f465cc6/4.png",
+        "",
+        "",
+        "",
+        "",
     ],
     small_answer_image: [
         "",
-        "https://a.storyblok.com/f/112136/446x446/3ea9d4491c/2.png",
-        "https://a.storyblok.com/f/112136/446x446/1cadc0e6c3/3.png",
-        "https://a.storyblok.com/f/112136/446x446/0c7f465cc6/4.png",
+        "",
+        "",
+        "",
     ],
     background_colour: "rgba(37, 81, 123, 1)",
     background_image: "https://a.storyblok.com/f/112136/1920x1409/5ba98e7f92/texture-bg-5efdcf3715f790-74747584-606d864d1b22d1-55861802.jpg",
